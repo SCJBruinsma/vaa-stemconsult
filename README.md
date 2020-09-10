@@ -1,6 +1,6 @@
 # vaa-stemconsult
 
- Files for the Stemconsult VAA launched during the 2017 elections for the House of Representatives in the Netherlands. The R files generate information on the MCA, perform some cleaning and re-scaling and show the effect of the experiment that was part of the VAA. Build by the PreferenceMatcher consortium (http://www.preferencematcher.org/).
+Files for the Stemconsult VAA launched during the 2017 elections for the House of Representatives in the Netherlands. The R files generate information on the MCA, perform some cleaning and re-scaling and show the effect of the experiment that was part of the VAA. Build by the PreferenceMatcher consortium (http://www.preferencematcher.org/). For the data, see: https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:79842.
  
 # Citation
 
